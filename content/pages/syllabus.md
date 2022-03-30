@@ -14,10 +14,10 @@ Prerequisites
 
 All four of the following:
 
-*   [24.951 Introduction to Syntax](/courses/24-951-introduction-to-syntax-fall-2003/)
-*   [24.952 Advanced Syntax](/courses/24-952-advanced-syntax-spring-2007/)
+*   [24.951 Introduction to Syntax](/courses/24-951-introduction-to-syntax-fall-2003)
+*   [24.952 Advanced Syntax](/courses/24-952-advanced-syntax-spring-2007)
 *   24.970 Introduction to Semantics
-*   [24.973 Advanced Semantics](/courses/24-973-advanced-semantics-spring-2009/)
+*   [24.973 Advanced Semantics](/courses/24-973-advanced-semantics-spring-2009)
 
 Course Description
 ------------------
